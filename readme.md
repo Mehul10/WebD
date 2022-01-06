@@ -29,15 +29,16 @@ WWW or Web is a place where all the informationa and documents are stored and fe
 ### HTML Tags
 
 - Whenever you write code in html you start and end with a tag
-- <html>
-
-
-</html>
-
 - Heading - <h1></h1>, <h2>,<h3>
 - Paragraphs - <p>
 - Bold - <b></b>
 - Italic - <i></i>
 
+
+### Homework
+ 
+1) install VS code
+2) make that that document
+3) learn all the tags
 
 
