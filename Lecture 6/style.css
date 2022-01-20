@@ -1,0 +1,28 @@
+*{
+    background-color: indigo;
+}
+
+h1{
+   text-align: center;
+   
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 20pt;
+    color: indigo;
+}
+
+.italic{
+    font-style: italic ;
+}
+
+#xyz{
+    padding-left: 20px;
+    color: green;
+}
