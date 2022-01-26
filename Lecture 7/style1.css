@@ -1,0 +1,11 @@
+/* h1+p{
+    background-color: bisque;
+} */
+
+h1~p{
+    background-color: bisque;
+}
+input+h1{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
