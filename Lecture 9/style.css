@@ -1,0 +1,14 @@
+.box{
+    margin: 20px;
+    padding: 10px;
+    border: solid black 3px;
+}
+#one{
+    background-color: lightgreen;
+}
+#two{
+    background-color: lightsalmon;
+}
+#three{
+    background-color: lightcyan;
+}
