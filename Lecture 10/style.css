@@ -1,0 +1,20 @@
+*{
+    background-color: yellow;
+}
+.heading{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    background-color: darkgray;
+}
+.para{
+    background-color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#one{
+    background-color: brown;
+}
+#four{
+    background-color: chocolate;
+}

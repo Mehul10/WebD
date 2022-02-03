@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    /* flex-wrap:wrap; */
+    flex-direction: row;
+     justify-content: space-around;  
+    align-items: center;
+}
+.boxes{
+    background-color: gray;
+    margin: 20px;
+    height:200px;
+    width: 50px;
+    border: 3px solid black;
+    /* display: inline; */
+}
+#one{
+    flex-shrink: 0;
+    flex-grow: 1;
+}
+#two{
+    flex-grow: 1;
+}
