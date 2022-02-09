@@ -1,22 +1,15 @@
 .container{
     display: flex;
-    /* flex-wrap:wrap; */
+    flex-wrap: wrap;
     flex-direction: row;
-     justify-content: space-around;  
-    align-items: center;
+    justify-content: space-around;   
+    align-items: flex-start;
 }
 .boxes{
     background-color: gray;
     margin: 20px;
-    height:200px;
-    width: 50px;
+    height:100px;
+    width: 150px;
     border: 3px solid black;
     /* display: inline; */
-}
-#one{
-    flex-shrink: 0;
-    flex-grow: 1;
-}
-#two{
-    flex-grow: 1;
 }
