@@ -2,6 +2,7 @@
 
 - Functions are also a datatype in Javascript
 
+## Function declaration
 ```
 function func_name(x,y,z)
 {
@@ -16,7 +17,7 @@ function func_name(x,y,z)
 - The functions are elevated or hoisted to the top of the program and if the function is called before it is defined, it will still work. 
 
 ## Function as a data type(variable)
-
+### Function expression
 ```
 var_name=function(parameters)
 {
@@ -47,4 +48,4 @@ console.log(y)
 ```
 var x=7
 ```
-3. let
+3. let - The scope of let is limited to a block
