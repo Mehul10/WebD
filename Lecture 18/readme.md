@@ -19,3 +19,12 @@ function area(length,width) //finds the area of a figure.
 console.log(area(7))  //NaN
 ```
 Output- NaN (Not a Number)
+
+- arguments array - it stores all the parameters which are passed in the function.
+
+- If I want to find the size of this array or the number parameters or arguments then i can do arguments.length
+
+# Array
+
+- declare the array like a variable
+- to find the size of the array- arr.length

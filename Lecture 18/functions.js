@@ -8,11 +8,14 @@ arr.push(77)
 console.log(arr)
 arr.pop()
 console.log(arr)
+console.log(3,2,8)
 function area() //finds the area of a figure.
 {
-    // console.log(arguments[0])
-    // return arguments[0]
-    
+    let ans=1;
+    for(let i=0;i<arguments.length;i++)
+    {
+        ans=ans*arguments[i]
+    }
+    return ans
 }
 
-console.log(area("mehul"))  //56
