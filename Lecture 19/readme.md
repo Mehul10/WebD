@@ -38,3 +38,4 @@ to access last element
 let n=str.length
 console.log(str[n-1])
 ```
+
