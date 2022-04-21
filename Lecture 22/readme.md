@@ -10,7 +10,8 @@ To run javascript code using Node.js :-
 
 
 - new --> makes an object out of a function
-- this --> it refers to the current location 
+- this --> it refers to the current location
+- this points to the place where the function has been called
 ```
 function Person(name,age)
 {
